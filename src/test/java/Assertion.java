@@ -34,6 +34,10 @@ public class Assertion {
 		 
 		 System.out.println("Navigation has been successfully done!..................................!!!!");
 		 System.out.println("Navigation assertion..................................!!!!");
+
+		 System.out.println("Successfully");
+
+		
 	}
 	
 	
