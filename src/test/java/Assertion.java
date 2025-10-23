@@ -33,7 +33,7 @@ public class Assertion {
 		 Assert.assertTrue(elements.size()>0);
 		 
 		 System.out.println("Navigation has been successfully done!..................................!!!!");
-		 
+		 System.out.println("Navigation assertion..................................!!!!");
 	}
 	
 	
